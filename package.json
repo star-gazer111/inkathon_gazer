@@ -1,0 +1,19 @@
+{
+  "name": "polkadothackathon",
+  "version": "1.0.0",
+  "description": "submission for polkadot hackathon",
+  "main": ".prettierrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scio-labs/inkathon.git"
+  },
+  "author": "shorabh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scio-labs/inkathon/issues"
+  },
+  "homepage": "https://github.com/scio-labs/inkathon#readme"
+}
