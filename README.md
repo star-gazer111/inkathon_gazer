@@ -1,6 +1,6 @@
 # OVERVIEW
 
-Contract Address: "5D6WfKKrfiJjsLn8eQdYKHRtUHBpaqnXcYMynTmoyNVWGvVN"
+Contract Address: 5D6WfKKrfiJjsLn8eQdYKHRtUHBpaqnXcYMynTmoyNVWGvVN
 
 The workshop which inspired was by Scio-Labs : Encode x Polkadot Hackathon: Launch Event + Start building dApps on ink! workshop
 
